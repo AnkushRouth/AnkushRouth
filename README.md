@@ -44,7 +44,7 @@ I have practical experience as a **Research Intern** at **IIT Delhi’s Supercom
 ## 🧪 Experience
 
 ### 🔹 **Summer Research Intern**  
-**IIT Delhi** (May 2025 – Present)  
+**IIT Delhi** (May 2025 – July 2025)  
 - Working on computational biology and bioinformatics projects at a top-tier research facility.
 
 ### 🔹 **US IT Recruiter**  
