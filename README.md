@@ -3,7 +3,7 @@
 **MSc. Life Science @ NIT Rourkela | Computational Biologist | Bioinformatician**
 
 📍 Jamshedpur, Jharkhand, India  
-📫 [ankushrouth10@gmail.com](mailto:ankushrouth10@gmail.com)  
+📫 [ankushrouth10@gmail.com](mail to:ankushrouth10@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ankushrouth)
 
 ---
@@ -45,11 +45,11 @@ I have practical experience as a **Research Intern** at **IIT Delhi’s Supercom
 
 ### 🔹 **Summer Research Intern**  
 **IIT Delhi** (May 2025 – July 2025)  
-- Working on computational biology and bioinformatics projects at a top-tier research facility.
+- Worked on computational biology and bioinformatics projects at a top-tier research facility.
 
 ### 🔹 **US IT Recruiter**  
 **Vastek Inc.** (April 2024 – June 2024)  
-- Gained insight into scientific hiring and research roles across global biotech firms.
+- Gained insight into scientific hiring and research roles across global firms.
 
 ---
 
