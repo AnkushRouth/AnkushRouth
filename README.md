@@ -22,21 +22,6 @@
 
 ## 🧬 About Me
 
-```python
-researcher = {
-    "name"        : "Ankush Kumar Rout",
-    "degree"      : "M.Sc. Life Science — NIT Rourkela (2024–2026)",
-    "location"    : "Rourkela, Odisha, India",
-    "focus"       : ["Genomics", "Transcriptomics", "AMR Bioinformatics",
-                     "Genome Annotation", "Computational Biology"],
-    "tools"       : ["Python", "Bash", "R", "Linux HPC", "Galaxy",
-                     "BWA", "STAR", "Salmon", "GATK", "QIIME2"],
-    "interests"   : ["RNA-seq", "Pseudoalignment", "k-mer Methods",
-                     "Machine Learning in Biology", "Clinical Bioinformatics"],
-    "contact"     : "ankushrouth10@gmail.com"
-}
-```
-
 I am a computational biologist and bioinformatician with a strong foundation in **Next-Generation Sequencing (NGS) analysis**, **transcriptomics**, and **genome annotation**. My dissertation project, **AMR Analyser**, implements a pseudoalignment-based pipeline using k-mer compatibility mapping and Expectation-Maximization (EM) algorithms to detect and quantify antimicrobial resistance genes from RNA-seq data — a clinically translatable, computationally efficient approach to the global AMR crisis.
 
 I have trained at two of India's premier research institutes — the **Supercomputing Facility for Bioinformatics & Computational Biology at IIT Delhi** and **Mechanica, IIT Madras** — where I developed production-grade bioinformatics pipelines and executed molecular docking simulations on HPC environments.
