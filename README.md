@@ -33,7 +33,6 @@ researcher = {
                      "BWA", "STAR", "Salmon", "GATK", "QIIME2"],
     "interests"   : ["RNA-seq", "Pseudoalignment", "k-mer Methods",
                      "Machine Learning in Biology", "Clinical Bioinformatics"],
-    "aspiration"  : "PhD in Bioinformatics @ Harvard / MIT / Stanford / CSIR-CCMB",
     "contact"     : "ankushrouth10@gmail.com"
 }
 ```
